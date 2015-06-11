@@ -111,15 +111,16 @@ public class CrossUI extends Application {
 			String s = fin[i];
 			int before = bigB-cent;
 			String ans = "";
-			for (int j = 0; j<before; j++) ans+=" ";
+			for (int j = 0; j<before; j++) ans+="ˆ"; //not exponent key no worries
 			ans+=s;
 			for (int j = 0; j<ans.length(); j++) {
 				char c = ans.charAt(j);
 				
-				if (c!=' ') {
+				if (c!=' ' && c!='ˆ') {
 					
 					Rectangle r = new Rectangle(j*mul + (0.2*mul/2),i*mul + (0.2*mul/2),mul,mul);
 					r.setFill(Color.YELLOW);
+					if ((s.length()>1 && j==bigB) || s.length()==1) r.setFill(Color.ORANGERED);
 					r.setStroke(Color.BLACK);
 					r.setStrokeWidth(0.2*mul);
 					pane.getChildren().add(r);
@@ -131,6 +132,12 @@ public class CrossUI extends Application {
 					t.setFont(new Font("Courier New", mul));
 					pane.getChildren().add(t);
 					
+				} else if (c==' ') {
+					Rectangle r = new Rectangle(j*mul + (0.2*mul/2),i*mul + (0.2*mul/2),mul,mul);
+					r.setFill(Color.BLACK);
+					r.setStroke(Color.BLACK);
+					r.setStrokeWidth(0.2*mul);
+					pane.getChildren().add(r);
 				}
 				
 			}
