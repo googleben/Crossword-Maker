@@ -1,8 +1,689 @@
-portal
-half life
-grand theft auto
-steam
-fallout
-gog galaxy
-the witcher
-v for vendetta
+A Fairy Tale
+A Fork in the Tale
+A Game of Thrones: Genesis
+A Hat in Time
+A Mind Forever Voyaging
+Ace of Spades
+Aces of the Pacific
+Act of War: Direct Action
+Act of War: High Treason
+Age of Empires
+Age of Empires II: HD Edition
+Age of Empires II: The Age of Kings
+Age of Empires II: The Forgotten
+Age of Empires II: The Conquerors
+Age of Mythology
+Age of Wonders
+Age of Wonders II: The Wizard's Throne
+Age of Wonders III
+Age of Wonders: Shadow Magic
+Alien Swarm
+Alan Wake
+Alpha Prime
+Amnesia: A Machine for Pigs
+Amnesia: The Dark Descent
+Anno 1503
+Anno 1602
+Anno 1701
+Anno 2070
+Antichamber
+ARMA: Armed Assault
+ARMA 2
+ARMA 3
+Assetto Corsa
+Astebreed
+AudioSurf
+Audiosurf 2
+Automation - The car company tycoon game
+Baldur's Gate
+Baldur's Gate: Tales of the Sword Coast
+Baldur's Gate II: Shadows of Amn
+Baldur's Gate II: Throne of Bhaal
+Banished
+Bastion
+Batman: Arkham Asylum
+Batman: Arkham City
+Batman: Arkham Knight
+Batman: Arkham Origins
+BattleBlock Theater
+Battlefield 1942
+Battlefield 1942: Secret Weapons of WWII
+Battlefield 1942: The Road to Rome
+Battlefield 2
+Battlefield 2142
+Battlefield 3
+Battlefield 4
+Battlefield Heroes
+Battlefield Play4Free
+Battleforge
+Battleground 2: Gettysburg
+Battleground 3: Waterloo
+Battleground 4: Shiloh
+Battleground 5: Antietam
+Battleground 6: Napoleon in Russia
+Battleground 7: Bull Run
+Battleground 8: Prelude to Waterloo
+Battleground 9: Chickamauga
+Battleground 10: Middle East
+Battleground 11: East Front
+Battlehawks 1942
+Battles in Time
+Battles of Napoleon
+Battleship: Surface Thunder
+Beam Breakers
+Beasts and Bumpkins
+Beyond Divinity
+Blade Symphony
+Bridge Project
+Borderlands
+Borderlands 2
+Borderlands: The Pre-Sequel!
+Burnout Paradise: The Ultimate Box
+Call of Duty
+Call of Duty 2
+Call of Duty 4: Modern Warfare
+Call of Duty: Black Ops
+Call of Duty: Black Ops 2
+Call of Duty: Ghosts
+Call of Duty: Modern Warfare 2
+Call of Duty: Modern Warfare 3
+Call of Duty Online
+Call of Duty: United Offensive
+Call of Duty: World at War
+CarneyVale: Showtime
+Champions of Krynn
+Chivalry: Medieval Warfare
+Cities in Motion
+Cities in Motion 2
+Civilization III
+Civilization III: Conquests
+Civilization III: Play the World
+Civilization IV
+Civilization V
+Civilization V: Brave New World
+Civilization V: Gods & Kings
+The Club
+Cobalt
+Command & Conquer: Tiberian Sun
+Command & Conquer: Renegade
+Command & Conquer
+Command & Conquer 4: Tiberian Twilight
+Command & Conquer: Red Alert 2
+Command & Conquer: Generals
+Commandos: Behind Enemy Lines
+Commandos: Beyond the Call of Duty
+Commandos 2: Men of Courage
+Commandos 3: Destination Berlin
+Commandos: Strike Force
+Company of Heroes
+Company of Heroes 2
+Contagion
+Cossacks II: Battle for Europe
+Counter-Strike
+Counter-Strike: Condition Zero
+Counter-Strike Online
+Counter-Strike:Source
+Counter-Strike: Global Offensive
+Crusader Kings
+Crusader Kings II
+Cryostasis: Sleep of Reason
+Crysis
+Crysis 2
+Crysis 3
+Curse of the Azure Bonds
+Dark Sun Online: Crimson Sands
+Dark Sun: Shattered Lands
+Dark Sun: Wake of the Ravager
+Daryl F. Gates' Police Quest: SWAT
+Day of Defeat
+Day of Defeat: Source
+DayZ
+Dead Island
+Deadlight
+Dear Esther
+Death Knights of Krynn
+Deathmatch Classic
+Defcon
+Delta Force
+Delta Force 2
+Delta Force: Black Hawk Down
+Delta Force: Black Hawk Down: Team Sabre
+Delta Force: Land Warrior
+Delta Force: Task Force Dagger
+Delta Force: Xtreme
+Delta Force: Xtreme 2
+Democracy 3
+Deus Ex
+Deus Ex: Invisible War
+Deus Ex: Human Revolution
+Diablo
+Diablo II
+Diablo III
+Digital Combat Simulator
+Dino D-Day
+Dirt 3
+Divinity: Original Sin
+Dofus
+Doom
+Dota 2
+Dragon Age: Origins
+Dragon Age: Origins – Awakening
+Dragon Age II
+Dragon Age: Inquisiton
+Dragon Warrior
+Square Enix
+Dragon Warrior III
+Square Enix (NDS)
+Dragon Quest V: Hand of the Heavenly Bride
+ArtePiazza, Matrix Software[89] (PS2)
+ArtePiazza (NDS)
+Square Enix (PS2, NDS)
+Dragon Quest VI: Realms of Revelation
+ArtePiazza (NDS)
+Dragon Warrior VII
+Square Enix (3DS)
+Dragon Quest VIII: Journey of the Cursed King
+Dragon Quest IX: Sentinels of the Starry Skies
+Dragon Quest X
+Armor Project
+DragonStrike
+DRAMAtical Murder
+Divine Divinity
+Dragons of Flame
+Duke Nukem
+Dune
+Dungeon Defenders
+Dungeon Keeper
+Dungeon Keeper 2
+Dungeons of Dredmor
+Dungeons & Dragons Online
+Dwarf Fortress
+An Elder Scrolls Legend: Battlespire
+The Elder Scrolls Adventures: Redguard
+The Elder Scrolls: Arena
+The Elder Scrolls II: Daggerfall
+The Elder Scrolls III: Bloodmoon
+The Elder Scrolls III: Morrowind
+The Elder Scrolls III: Tribunal
+The Elder Scrolls IV: Oblivion
+The Elder Scrolls V: Skyrim
+Empire Earth
+Empire Earth II
+Empire Earth III
+Empire: Total War
+Enclave
+Endless Space
+Epic Battle Fantasy
+Epic Battle Fantasy 2
+Epic Battle Fantasy 3
+Epic Battle Fantasy 4
+Euro Truck Simulator
+Euro Truck Simulator 2
+Europa Universalis
+Europa Universalis II
+Europa Universalis III
+Europa Universalis IV
+Eve Online
+Eye of the Beholder
+Eye of the Beholder II: The Legend of Darkmoon
+Eye of the Beholder III: Assault on Myth Drannor
+Factorio
+Fallout
+Fallout 2
+Fallout 3
+Fallout: New Vegas
+Far Cry
+Far Cry 2
+Far Cry 3
+Far Cry 3: Blood Dragon
+Fiesta Online
+Five Nights at Freddy's
+Five Nights at Freddy's 2
+Five Nights at Freddy's 3
+Final Fantasy
+Final Fantasy II
+Final Fantasy III
+Final Fantasy IV
+Final Fantasy V
+Final Fantasy VI
+Final Fantasy VII
+Final Fantasy VIII
+Final Fantasy IX
+Final Fantasy X
+Final Fantasy XI
+Final Fantasy XII
+Firefall
+Fistful of Frags
+Flatout
+Flatout 2
+Flatout 3 Chaos and Destruction
+FlatOut: Ultimate Carnage
+For The Glory: A Europa Universalis Game
+Fragile Allegiance
+Freelancer
+FTL: Faster Than Light
+The Forest
+Game Dev Tycoon
+Garry's Mod
+Goat Simulator
+Golden Sun
+Golden Sun: The Lost Age
+Golden Sun: Dark Dawn
+Gothic
+Gothic II
+Gothic 3
+Gothic 3: Forsaken Gods
+Arcania: Gothic 4
+Arcania: Fall of Setarrif
+Gone Home
+Grand Theft Auto
+Grand Theft Auto: London, 1969
+Grand Theft Auto: London, 1961
+Grand Theft Auto 2
+Grand Theft Auto III
+Grand Theft Auto: Vice City
+Grand Theft Auto: San Andreas
+Grand Theft Auto IV
+Grand Theft Auto: The Lost and Damned
+Grand Theft Auto: The Ballad of Gay Tony
+Grand Theft Auto: V
+Grid 2
+Ground Control
+Ground Control II: Operation Exodus
+Guild Wars
+Guild Wars Factions
+Guild Wars Nightfall
+Guild Wars 2
+Gunpoint
+GTR Evolution
+Half-Life
+Half-Life: Blue Shift
+Half-Life Deathmatch: Source
+Half-Life: Opposing Force
+Half-Life: Source
+Half-Life 2
+Half-Life 2: Deathmatch
+Half-Life 2: Lost Coast
+Half-Life 2: Episode One
+Hard Truck Apocalypse
+Harvester
+Hatoful Boyfriend: A School of Hope and White Wings
+Half-Life 2: Episode Two
+Halo: Combat Evolved
+Halo 2
+Hearts of Iron
+Hearts of Iron II
+Hearts of Iron III
+Heroes of Might and Magic: A Strategic Quest
+Heroes of Might and Magic II
+Heroes of Newerth
+Heroes of the Lance
+Hotline Miami
+Hitman: Absolution
+Hitman: Blood Money
+Hitman: Codename 47
+Hitman: Contracts
+Hitman 2: Silent Assassin
+Hogs of War
+Homeworld
+Homeworld: Cataclysm
+Homeworld 2
+Hugo's House of Horrors
+Icewind Dale
+Icewind Dale II
+Insurgency
+Jade Empire
+Jazz Jackrabbit
+Jazz Jackrabbit 2
+James Bond 007: Nightfire
+Just Cause 2
+Kentucky Route Zero
+Kerbal Space Program
+Katawa Shoujo
+Killing Floor
+Killing Floor 2
+King Arthur: The Role-Playing Wargame
+King Arthur II: The Role-Playing Wargame
+Knights and Merchants: The Shattered Kingdom
+kkrieger
+Lands of Lore: The Throne of Chaos
+Lands of Lore: Guardians of Destiny
+Lands of Lore III
+League of Legends
+Leisure Suit Larry series
+The Legend of Zelda
+Zelda II: The Adventure of Link
+The Legend of Zelda: A Link to the Past
+The Legend of Zelda: Link's Awakening
+The Legend of Zelda: Ocarina of Time
+The Legend of Zelda: Majora's Mask
+The Legend of Zelda: Oracle of Seasons and Oracle of Ages
+The Legend of Zelda: A Link to the Past and Four Swords
+The Legend of Zelda: The Wind Waker
+The Legend of Zelda: Four Swords Adventures
+The Legend of Zelda: The Minish Cap
+The Legend of Zelda: Twilight Princess
+The Legend of Zelda: Phantom Hourglass
+The Legend of Zelda: Spirit Tracks
+The Legend of Zelda: Skyward Sword
+The Lord of the Rings Online
+Lovely Planet
+Magicka
+Mass Effect
+Metroid
+Metroid II: Return of Samus
+Super Metroid
+Metroid Fusion
+Metroid Prime
+Metroid: Zero Mission
+Metroid Prime 2: Echoes
+Metroid Prime Pinball
+Metroid Prime Hunters
+Metroid Prime 3: Corruption
+Metroid Prime: Trilogy
+Metroid: Other M
+Mechwarrior Online
+Medal of Honor
+Medal of Honor: Warfighter
+Medieval: Total War
+Medieval II: Total War
+Metal Gear
+Metal Gear 2: Solid Snake
+Metal Gear Solid
+Metal Gear Solid 2: Substance
+Metal Gear Rising: Revengeance
+Metal Gear Solid V: Ground Zeroes
+Metal Gear Solid V: The Phantom Pain
+Metro 2033
+Metro: Last Light
+Might & Magic X: Legacy
+Might and Magic VI
+Might and Magic VII
+Minecraft
+Mirror's Edge
+Monaco: What's Yours Is Mine
+Mount & Blade
+Mount & Blade: Warband
+Mount & Blade: With Fire & Sword
+Napoleon: Total War
+Natural Selection 2
+Need for Speed
+Need for Speed II
+Need for Speed III: Hot Pursuit
+Need for Speed: High Stakes
+Need for Speed: Porsche Unleashed
+Need for Speed: Hot Pursuit 2
+Need for Speed: Underground
+Neverwinter Nights
+Neverwinter Nights: Shadows of Undrentide
+Neverwinter Nights: Hordes of the Underdark
+Neverwinter Nights 2
+Next Car Game
+No More Room in Hell
+Operation Flashpoint: Cold War Crisis
+Operation Flashpoint: Resistance
+Overgrowth
+Orcs Must Die 2
+Order of War
+Out of the Park Baseball 2007
+osu!
+Papers, Please
+Path of Exile
+Payday: The Heist
+Payday 2
+Penumbra: Black Plague
+Penumbra: Overture
+Penumbra: Requiem
+Planetary Annihilation
+PlanetSide
+PlanetSide 2
+Pokémon Red and Blue
+Pokémon Yellow
+Pokémon Gold and Silver
+Pokémon Crystal
+Pokémon Ruby and Sapphire
+Pokémon FireRed and LeafGreen
+Pokémon Emerald
+Pokémon Diamond and Pearl
+Pokémon Platinum
+Pokémon HeartGold and SoulSilver
+Pokémon Black and White
+Pokémon Black 2 and White 2
+Pool of Radiance
+Pools of Darkness
+Portal
+Portal 2
+Prison Architect
+Project Zomboid
+Quake
+Quake II
+Quake III Arena
+Quake 4
+Railroad Tycoon
+Railroad Tycoon 3
+Recettear: An Item Shop's Tale
+Red Orchestra: Ostfront 41-45
+Red Orchestra 2: Heroes of Stalingrad
+Reign of Kings
+Retrobooster
+Ricochet
+Rise of Nations
+Rise of Nations: Rise of Legends
+Rise of Nations: Thrones and Patriots
+Robot Roller-Derby Disco Dodgeball
+RollerCoaster Tycoon
+RollerCoaster Tycoon 2
+RollerCoaster Tycoon 3
+Rome: Total War
+Rome: Total War: Alexander
+Rome: Total War: Barbarian Invasion
+RuneScape
+Rust
+Saints Row 2
+Saints Row: The Third
+Saints Row IV
+Scrolls
+Secret of the Silver Blades
+Sengoku
+The Ship
+Shogun: Total War
+ShootMania Storm
+Sid Meier's Railroads!
+Silent Hunter
+Silent Hunter II
+Silent Hunter III
+Silent Hunter 4: Wolves of the Pacific
+Silent Hunter 5: Battle of the Atlantic
+Silkroad Online
+Sins of a Solar Empire
+SimCity 3000
+SimCity 4
+SimCity Societies
+SimCity
+Sleeping Dogs
+Smite
+S.T.A.L.K.E.R.: Shadow of Chernobyl
+S.T.A.L.K.E.R.: Clear Sky
+S.T.A.L.K.E.R.: Call of Pripyat
+StarCraft
+StarCraft: Brood War
+StarCraft II: Wings of Liberty
+StarCraft II: Heart of the Swarm
+StarDrive
+Starsector
+Space Station 13
+SpaceChem
+Star Trek Online
+Star Wars: Knights of the Old Republic
+Star Wars: Knights of the Old Republic II – The Sith Lords
+Star Wars: The Old Republic
+Star Wars Galaxies
+Star Wars: TIE Fighter
+Star Wars: X-Wing (series)
+State of Decay
+Stronghold
+Stronghold: Crusader
+Stronghold 2
+Stronghold Legends
+Stronghold: Crusader Extreme
+Stronghold Kingdoms
+Stronghold 3
+Super Meat Boy
+SWAT 3: Close Quarters Battle
+SWAT 4
+The Sims: Hot Date
+The Sims: House Party
+The Sims: Livin' Large
+The Sims: Makin' Magic
+The Sims: Superstar
+The Sims: Unleashed
+The Sims: Vacation
+The Sims 2: Apartment Life
+The Sims 2: Bon Voyage
+The Sims 2: FreeTime
+The Sims 2: Nightlife
+The Sims 2: Open for Business
+The Sims 2: Seasons
+The Sims 2: University
+The Sims 3: Generations
+The Sims 3: Into the Future
+The Sims 3: Island Paradise
+The Sims 3: Late Night
+The Sims 3: Seasons
+The Sims 3: Showtime
+The Sims 3: Supernatural
+The Sims 3: University Life
+Space Engineers
+Spore
+Spore: Galactic Adventure
+Star Citizen
+System Shock
+System Shock 2
+The Stanley Parable
+The Sting!
+Team Fortress Classic
+Team Fortress 2
+Terraria
+The Secret World
+Thief: The Dark Project
+Thief II: The Metal Age
+Thief: Deadly Shadows
+Thief
+Titan Quest
+Tomb Raider
+Tom Clancy's Splinter Cell
+Tom Clancy's Splinter Cell: Pandora Tomorrow
+Tom Clancy's Splinter Cell: Chaos Theory
+Tom Clancy's Splinter Cell: Double Agent
+Tom Clancy's Splinter Cell: Conviction
+Tom Clancy's Splinter Cell: Blacklist
+Torchlight
+Torchlight II
+Total Annihilation
+Total War: Rome II
+Total War: Shogun 2
+TrackMania 2: Canyon
+TrackMania Forever
+TrackMania Sunrise
+TrackMania Nations ESWC
+TrackMania Nations Forever
+TrackMania United
+Train Simulator(RailWorks)
+Transistor
+Starsiege: Tribes
+Tribes 2
+Tribes: Vengeance
+Tribes: Ascend
+Tropico
+Tropico 2: Pirate Cove
+ÜberSoldier
+Universe Sandbox
+Unreal
+Unreal Tournament
+Unreal Tournament 2003
+Unreal Tournament 2004
+Unreal Tournament 3
+Unreal Tournament 4
+Unturned
+Vampire: The Masquerade – Bloodlines
+Vampire: The Masquerade – Redemption
+Victoria: An Empire Under The Sun
+Victoria II
+Vivisector: Beast Within
+Voxatron
+Wasteland
+War of the Lance
+Warcraft: Orcs & Humans
+Warcraft III: Reign of Chaos
+Wargame: AirLand Battle
+Wargame: European Escalation
+Wargame: Red Dragon
+Warhammer 40,000: Dawn of War II
+War of the Roses
+WildStar
+The Witcher
+World in Conflict
+World in Conflict: Soviet Assault
+World of Goo
+World of Tanks
+World of Warplanes
+World of Warcraft
+World of Warcraft: The Burning Crusade
+World of Warcraft: Cataclysm
+World of Warcraft: Mists of Pandaria
+World of Warcraft: Warlords of Draenor
+World of Warcraft: Wrath of the Lich King
+XCOM: Enemy Unknown
+XCOM: Enemy Within
+Xenonauts
+X-Plane
+X3: Terran Conflict
+Zoo Tycoon
+Zoo Tycoon 2
+Zoo Tycoon 2: African Adventure
+Zoo Tycoon 2: Dino Danger Pack
+Zoo Tycoon 2: Endangered Species
+Zoo Tycoon 2: Extinct Animals
+Zoo Tycoon 2: Marine Mania
+Zoo Vet
+Zork Zero
+Zork: Grand Inquisitor
+0 A.D.
+007: Licence to Kill
+007: Legends
+007: Quantum of Solace
+1-0 Soccer Manager
+101 Dalmatians: Escape from DeVil Manor
+10th Frame
+140
+18 Wheels of Steel: Haulin'
+180
+1830: Railroads & Robber Barons
+1869
+1914 Shells of Fury
+1942: The Pacific Air War
+221B Baker Street
+2400 A.D.
+3-D Bomberman
+3-Demon
+3D Construction Kit
+3D Construction Kit II
+3D Maze Man: Amazing Adventures
+3DiTeams
+3Kingdoms
+4D Sports Boxing
+4D Sports Tennis
+4th & Inches
+4x4 Hummer
+4x4 Off-Road Racing
+5 (visual novel)
+5 A Day Adventures
+50 Mission Crush
+500cc Grand Prix
+688(I) Hunter/Killer
+7 Colors
+7554
+7th Legion
+80 Days
+8BitMMO
+9: The Last Resort
